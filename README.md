@@ -32,8 +32,9 @@ I am listing them in Star-like order where the ones I like the most as visual, c
 
  - [Select2](https://select2.github.io/examples.html#multiple-max) - Seems simply awesome - complete control over quite the extensive select boxes.
  - [Bricklayer](http://bricklayer.js.org/) - A very very basic pinterest like layout. it uses almost no JS at all for positioning but instead I think its moving the elements in the DOM. (not sure if its the best solution tho)
- - [Modaal](http://humaan.com/modaal/)Very nice looking modal script
+ - [Modaal](http://humaan.com/modaal/) - Very nice looking modal script
  - [Responsify.js](http://responsifyjs.space/#demo) - Responsive images by defining primary area of focus. ( needs to be more researched on how it works)
+ - [Distorted button effects](http://tympanus.net/Development/DistortedButtonEffects/) - Some very neat button effects.
 
 ## Tools (npm stuff mainly)
 
