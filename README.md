@@ -6,29 +6,54 @@ I am listing them in Star-like order where the ones I like the most as visual, c
 
 ## Scripts, styles, libs and frameworks
 
-### 5 star :star: :star: :star: :star: :star:
+### :star: :star: :star: :star: :star:
 
-- [Responsify.js](http://responsifyjs.space/#demo) - Responsive images by defining primary area of focus. ( needs to be more researched on how it works)
+---
 
+### :star: :star: :star: :star:
 
-### 4 star :star: :star: :star: :star:
+---
 
-### 3 star :star: :star: :star:
+### :star: :star: :star:
 
-### 2 star :star: :star:
+---
 
-### 1 star :star:
+### :star: :star:
+
+---
+
+### :star:
+
+---
+
+### Unstarred (to be decided)
+
+---
+
+ - [Select2](https://select2.github.io/examples.html#multiple-max) - Seems simply awesome - complete control over quite the extensive select boxes.
+ - [Bricklayer](http://bricklayer.js.org/) - A very very basic pinterest like layout. it uses almost no JS at all for positioning but instead I think its moving the elements in the DOM. (not sure if its the best solution tho)
+ - [Modaal](http://humaan.com/modaal/)Very nice looking modal script
+ - [Responsify.js](http://responsifyjs.space/#demo) - Responsive images by defining primary area of focus. ( needs to be more researched on how it works)
 
 ## Tools (npm stuff mainly)
 
-### 5 star :star: :star: :star: :star: :star:
 
-### 5 star :star: :star: :star: :star: :star:
+### :star: :star: :star: :star: :star:
 
-### 4 star :star: :star: :star: :star:
+---
 
-### 3 star :star: :star: :star:
+### :star: :star: :star: :star:
 
-### 2 star :star: :star:
+---
 
-### 1 star :star:
+### :star: :star: :star:
+
+---
+
+### :star: :star:
+
+---
+
+### :star:
+
+---
