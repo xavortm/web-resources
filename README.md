@@ -35,6 +35,7 @@ I am listing them in Star-like order where the ones I like the most as visual, c
  - [Modaal](http://humaan.com/modaal/) - Very nice looking modal script
  - [Responsify.js](http://responsifyjs.space/#demo) - Responsive images by defining primary area of focus. ( needs to be more researched on how it works)
  - [Distorted button effects](http://tympanus.net/Development/DistortedButtonEffects/) - Some very neat button effects.
+ - [iCheck](http://icheck.fronteed.com/) - Checkbox stylings
 
 ## Tools (npm stuff mainly)
 
