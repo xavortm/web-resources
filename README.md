@@ -36,6 +36,8 @@ I am listing them in Star-like order where the ones I like the most as visual, c
  - [Responsify.js](http://responsifyjs.space/#demo) - Responsive images by defining primary area of focus. ( needs to be more researched on how it works)
  - [Distorted button effects](http://tympanus.net/Development/DistortedButtonEffects/) - Some very neat button effects.
  - [iCheck](http://icheck.fronteed.com/) - Checkbox stylings
+ - [Vue Multiselect](http://monterail.github.io/vue-multiselect/) - The most complete selecting solution for Vue.js
+
 
 ## Tools (npm stuff mainly)
 
