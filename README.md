@@ -5,7 +5,6 @@ A list of frameworks, libraries, tools or anything other resource that might com
 I am listing them in Star-like order where the ones I like the most as visual, code or idea/functionality are with more stars and ones that seems usefull but are badly implemented, ugly or buggy have lower stars count. With time some might move between the stars :)
 
 ## Scripts, styles, libs and frameworks
----
 
  - [Select2](https://select2.github.io/examples.html#multiple-max) - Seems simply awesome - complete control over quite the extensive select boxes.
  - [SweetAlert2](https://limonte.github.io/sweetalert2/) - One more alert plugin
@@ -22,9 +21,7 @@ I am listing them in Star-like order where the ones I like the most as visual, c
  - [ContentTools](http://getcontenttools.com/) - Live editor. Looks very pretty!
 
 ## Tools (npm stuff mainly)
----
 
 ## Fonts
----
 
  - [Aktiv Grotesk](https://typekit.com/fonts/aktiv-grotesk-std) - Amazingly nice looking sans-serif font for body text and headings.
